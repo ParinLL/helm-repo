@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2021-01-28T15:58:59.031625344+08:00"
+entries:
+  nginxchart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-01-28T16:27:05.766548539+08:00"
+    description: A Example nginx Helm chart
+    digest: efeb972381448316e7a5aac5e696e9cf9cbb8d54e38a4cea119947480babf43e
+    name: nginxchart
+    type: application
+    urls:
+    - charts/nginxchart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-01-28T16:27:05.764685748+08:00"
