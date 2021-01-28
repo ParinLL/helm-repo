@@ -1,6 +1,6 @@
 apiVersion: v2
 name: nginxchart
-description: A Helm chart for Kubernetes
+description: A Example nginx Helm chart
 
 # A chart can be either an 'application' or a 'library' chart.
 #
